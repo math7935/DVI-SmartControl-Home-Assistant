@@ -1,0 +1,9 @@
+{
+    "domain": "dvi_heatpump",
+    "name": "DVI Heatpump",
+    "version": "0.1",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": ["@math7935"],
+    "requirements": []
+  }
